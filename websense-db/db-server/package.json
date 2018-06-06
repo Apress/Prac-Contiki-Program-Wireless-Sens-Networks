@@ -1,0 +1,15 @@
+{
+  "name": "sensor-db",
+  "version": "1.0.0",
+  "description": "saving sensor data to MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agus Kurniawan",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mysql": "^2.15.0",
+    "request": "latest"
+  }
+}

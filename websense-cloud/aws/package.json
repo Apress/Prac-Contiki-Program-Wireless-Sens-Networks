@@ -1,0 +1,16 @@
+{
+  "name": "contiki-ng-aws",
+  "version": "1.0.0",
+  "description": "demo for contiki-ng and aws iot",
+  "main": "middleware-aws.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agus Kurniawan",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.1",
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  }
+}
